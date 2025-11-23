@@ -32,7 +32,7 @@ Meu motivo para usar C é justamente que C é uma linguagem muito rápida em com
 ### Presença do C
 A linguagem simplesmente está em tudo, e não é brincadeira: Linux, firmwares, satélites, drivers, engines, softwares de segurança, ferramentes úteis, projetos de engenharia, etc. Usar C é garantir que tenha tudo que precisa em muita eficiência e liberdade.
 #### Mercado do C
-Apesar de tudo, o mercado do C não é tão grande e funcional. Ele tem seu mercado em Softwares IoT, Embarcados e integrações com hardware (como firmwares), mas não são tão vastos como outras linguagens atualmente. Outro problema é que algumas áreas que aplicam o C não são necessariamentes sobre desenvolvimento, como é o caso da Engenharia Mecânica que utiliza C e Python como parte do processo. 
+Apesar de tudo, o mercado do C não é tão grande e funcional. Ele tem seu mercado em Softwares IoT, Embarcados e integrações com hardware (como firmwares), mas não são tão vastos como outras linguagens atualmente. Outro problema é que algumas áreas que aplicam o C não são necessariamentes sobre desenvolvimento, como é o caso da engenharia reversa ou exploração de binários que pertencem a área de Segurança.
 
 Então é possível atuar em C, mas lembrando, não faço parte do mercado de trabalho do C então isso é mais por pesquisa e conhecimento aproximado. Por isso minha visão é de que mesmo sendo possível, não é o tipo de mercado que aponta em um crescimento tão vasto como outras, sendo apenas um viés leigo da área.
 ### Dificuldade
