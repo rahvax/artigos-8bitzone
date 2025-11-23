@@ -1,9 +1,9 @@
-# artigos-8bitzone
-Esse repositório é direcionado em servir como acervo para meus artigos escritos para auxiliar na 8bitzone e em conteúdos. Não vou postar nada independente ou muito elaborado, apenas focado em dicas e experiência própria minha em coisas que servem para isso.
-- [Artigos 8bitzone](https://github.com/8bitzone/conteudos-para-iniciante)
+# Artigos da 8bitzone
+Esse repositório é direcionado em servir como acervo para meus artigos escritos para auxiliar na 8bitzone e em seus conteúdos. Não vou postar nada independente ou muito elaborado, apenas focado em dicas e experiência própria minha em coisas que servem para isso.
+- [Hub 8bitzone](https://github.com/8bitzone/conteudos-para-iniciantes)
 
 # Listagem de Artigos
-Aqui lista todos os artigos que escrevi ou irei escrever para o servidor da Alfheim e seu acervo.
+Aqui lista todos os artigos que escrevi ou irei escrever para o servidor da 8bitzone e seu acervo.
 | Gênero                 |                                                                                                  | Link                                                                                     |
 |------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Linguagem C            | Abordando assuntos relacionados a linguagem, boas práticas, padrões e dicas para o uso dela      | [Artigo Local](https://github.com/rahvax/artigos-8bitzone/blob/main/c-lang/README.md)     |
