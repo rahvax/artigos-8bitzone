@@ -5,7 +5,7 @@ Aqui irei abordar temas sobre a linguagem C como dicas de estudos, boas referên
 Assuntos gerais para ajudar na sua compreensão sobre C e tópicos relacionados como práticas, ferramentas, etc.
 | Tópico                       | Descrição                                                                | Link     |
 |------------------------------|--------------------------------------------------------------------------|----------|
-| O que é a linguagem C	       | Vamos entender o que é C e os motivos de ser tão importante              |[Artigo Local](https://github.com/rahvax/artigos-alfheim/blob/main/c-lang/sobre-c.md)|
+| O que é a linguagem C	       | Vamos entender o que é C e os motivos de ser tão importante              |[Artigo Local](https://github.com/rahvax/artigos-8bitzone/blob/main/c-lang/sobre-c.md)|
 | Padrões do C                 | Irei abordar sobre os padrões de programação do C                        |          |
 | Diferenças entre C e C++     | Vamos entender as diferenças entre C e o C++ e como eles podem se ajudar |          |
 | Explicando BITWISE           | Irei abordar um dos assuntos mais cheios de perguntas para quem começou  |          |
